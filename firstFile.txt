@@ -1,1 +1,1 @@
-Part 3 Git Introduction
+Part 3 Git Introduction. Git clone and git pull
